@@ -6,37 +6,36 @@ This widget allows streamers to run a single raffle across all supported platfor
 
 Key Features:
 
-   •  🖥 Multi-Platform Support – Works seamlessly with Twitch, Kick, and YouTube live chats.
+ - 🖥 Multi-platform support (Twitch / Kick / YouTube)
 
-   •  🎟 Easy Participation – Viewers join raffles with a simple !raffle command (no long syntax needed).
+ - 🎟 Easy entry with `!raffle`
 
-   •  🛠 Moderator Tools – Mods and broadcasters can start, monitor, and end raffles in real-time with chat commands.
+ - 🛠 Moderator tools: start, end, status, list, last winner  
 
-   •  🔄 Cross-Platform Tracking – Participants from all platforms are tracked together for fair winner selection.
+ - 🔁 Unified participant tracking across platforms  
 
-   •  🎯 Platform-Specific Winner Announcements – Winner is announced with platform-specific highlights 
-         (e.g., 🎉 Twitch, 🔥 Kick, ⭐ YouTube).
+ - 🎯 Platform-specific winner announcement (with emoji and source label)  
 
-   •  ⏳ Dramatic Countdown – Optional “3…2…1…” countdown before revealing the winner to build suspense.
+ - ⏳ Countdown before winner reveal to build suspense  
 
-   •  📜 Last Winner Recall – Use (!raffle last) to display the previous raffle’s winner.
+ - 🧠 Last winner recall (`!raffle last`)  
 
-   •  📊 Raffle Status & List – !raffle help status shows current prize and participant count, !raffle list shows total entries.
+ - 🧾 Simple usage guide built into the command (`!raffle guide`)
 
 Example Commands:
 
-   •  !raffle start <prize> – Start a new raffle (mods/broadcaster only)
-
-   •  !raffle – Join the current raffle
-
-   •  !raffle end – End raffle and pick winner (mods/broadcaster only)
-
-   •  !raffle status – Show raffle details
-
-   •  !raffle list – Show number of participants
-
-   •  !raffle last – Show last raffle’s winner
-
-   •  !raffle guide – Show usage instructions
+ - `!raffle start <prize>` — Start a new raffle (mod/broadcaster only)
+   
+ - `!raffle` — Join the active raffle
+   
+ - `!raffle end` — End the raffle and pick a winner (mod/broadcaster only)
+   
+ - `!raffle status` — Show current raffle and participant count
+   
+ - `!raffle list` — Show number of participants
+   
+ - `!raffle last` — Show previous winner
+  
+ - `!raffle guide` / `!raffle help` — Display usage instructions 
 
 With this widget, your community stays engaged across all platforms, making giveaways and interactive events_ easy to run and fun for everyone.
