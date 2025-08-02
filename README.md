@@ -33,7 +33,7 @@ Moderators/broadcasters can start, monitor, and end raffles using chat commands.
    
  - `!raffle status` — Show current raffle and participant count
    
- - `!raffle list` — Show number of participants
+ - `!raffle list` — Show number of entrants
    
  - `!raffle last` — Show previous winner
   
