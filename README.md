@@ -1,10 +1,11 @@
 **Cross-Platform Raffle System for Multistream**
 
-A powerful and interactive raffle system designed for multistream setups on Twitch, Kick, and YouTube.
+A powerful and interactive raffle system designed for multistream setups. 
+This StreamerBot action allows you to run a single raffle simultaneously on Twitch, Kick, and YouTube, letting viewers join from any platform. 
+Moderators/broadcasters can start, monitor, and end raffles using chat commands. 
 
-This widget allows streamers to run a single raffle across all supported platforms simultaneously, ensuring every viewer has a fair chance regardless of where they’re watching.
 
-Key Features:
+**Features include:**
 
  - 🖥 Multi-platform support (Twitch / Kick / YouTube)
 
@@ -22,7 +23,7 @@ Key Features:
 
  - 🧾 Simple usage guide built into the command (`!raffle guide`)
 
-Example Commands:
+**Example Commands:**
 
  - `!raffle start <prize>` — Start a new raffle (mod/broadcaster only)
    
