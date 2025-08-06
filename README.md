@@ -7,21 +7,14 @@ Moderators/broadcasters can start, monitor, and end raffles using chat commands.
 
 **Features include:**
 
- - 🖥 Multi-platform support (Twitch / Kick / YouTube)
-
- - 🎟 Easy entry with `!raffle`
-
- - 🛠 Moderator tools: start, end, status, list, last winner  
-
- - 🔁 Unified participant tracking across platforms  
-
- - 🎯 Platform-specific winner announcement (with emoji and source label)  
-
- - ⏳ Countdown before winner reveal to build suspense  
-
- - 🧠 Last winner recall (`!raffle last`)  
-
- - 🧾 Simple usage guide built into the command (`!raffle guide`)
+- 🖥 Multi-platform support (Twitch / Kick / YouTube)
+- 🎟 Easy entry with `!raffle`
+-  🛠 Moderator tools: start, end, status, list, last winner  
+- 🔁 Unified participant tracking across platforms
+- 🎯 Platform-specific winner announcement (with emoji and source label)  
+- ⏳ Countdown before winner reveal to build suspense  
+- 🧠 Last winner recall (`!raffle last`)  
+- 🧾 Simple usage guide built into the command (`!raffle guide`)
 
 **Example Commands:**
 
