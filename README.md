@@ -4,6 +4,7 @@ A powerful and interactive raffle system designed for multistream setups.
 This StreamerBot action allows you to run a single raffle simultaneously on Twitch, Kick, and YouTube, letting viewers join from any platform. 
 Moderators/broadcasters can start, monitor, and end raffles using chat commands. 
 
+**Working Now Streamerbot 1.0.0-beta.1**
 
 **Features include:**
 
