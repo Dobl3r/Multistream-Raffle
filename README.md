@@ -5,6 +5,8 @@ This StreamerBot action allows you to run a single raffle simultaneously on Twit
 Moderators/broadcasters can start, monitor, and end raffles using chat commands. 
 
 
+## Working Now Stable 1.0.0
+
 ## Features:
 
 - 🖥 Multi-platform support (Twitch / Kick / YouTube)
